@@ -1,0 +1,14 @@
+D:\C# Programs\Toll Plaza System\Toll Plaza System\bin\Release\Toll Plaza System.exe.config
+D:\C# Programs\Toll Plaza System\Toll Plaza System\bin\Release\Toll Plaza System.exe
+D:\C# Programs\Toll Plaza System\Toll Plaza System\bin\Release\Toll Plaza System.pdb
+D:\C# Programs\Toll Plaza System\Toll Plaza System\obj\Release\Toll Plaza System.csproj.AssemblyReference.cache
+D:\C# Programs\Toll Plaza System\Toll Plaza System\obj\Release\Toll_Plaza_System.Form1.resources
+D:\C# Programs\Toll Plaza System\Toll Plaza System\obj\Release\Toll_Plaza_System.Form2.resources
+D:\C# Programs\Toll Plaza System\Toll Plaza System\obj\Release\Toll_Plaza_System.Form3.resources
+D:\C# Programs\Toll Plaza System\Toll Plaza System\obj\Release\Toll_Plaza_System.Form4.resources
+D:\C# Programs\Toll Plaza System\Toll Plaza System\obj\Release\Toll_Plaza_System.Properties.Resources.resources
+D:\C# Programs\Toll Plaza System\Toll Plaza System\obj\Release\Toll Plaza System.csproj.GenerateResource.cache
+D:\C# Programs\Toll Plaza System\Toll Plaza System\obj\Release\Toll Plaza System.csproj.CoreCompileInputs.cache
+D:\C# Programs\Toll Plaza System\Toll Plaza System\obj\Release\Toll Pla.50435300.Up2Date
+D:\C# Programs\Toll Plaza System\Toll Plaza System\obj\Release\Toll Plaza System.exe
+D:\C# Programs\Toll Plaza System\Toll Plaza System\obj\Release\Toll Plaza System.pdb
